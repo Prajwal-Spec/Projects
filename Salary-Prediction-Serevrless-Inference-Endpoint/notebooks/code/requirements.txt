@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+xgboost==1.7.6
+fsspec
+s3fs
